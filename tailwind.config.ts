@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        timeline: {
+          line: "hsl(var(--timeline-line))",
+          dot: "hsl(var(--timeline-dot))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",

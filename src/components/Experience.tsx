@@ -6,25 +6,25 @@ const Experience = () => {
 
   const experiences = [
     {
-      title: "Senior Software Engineer",
-      organization: "Tech Corp",
-      period: "2022 - Present",
+      title: "Technical Intern",
+      organization: "Cisco Systems",
+      period: "Jan 2026 - Present",
       description:
-        "Leading development of scalable web applications using React, Node.js, and cloud technologies. Mentoring junior developers and driving technical decisions.",
+        "Working on enhancing network security features and optimizing performance for enterprise solutions. Gained hands-on experience with cutting-edge technologies in a collaborative environment.",
     },
     {
-      title: "Full Stack Developer",
-      organization: "Innovation Labs",
-      period: "2020 - 2022",
+      title: "AI Developer Intern",
+      organization: "Supervaisor AI",
+      period: "Apr 2025 - May 2025",
       description:
-        "Developed and maintained multiple client projects using modern web technologies. Collaborated with cross-functional teams to deliver high-quality solutions.",
+        "Developed AI models to improve data analysis and predictive capabilities. Collaborated with a team of engineers to integrate AI solutions into existing platforms.",
     },
     {
-      title: "Software Developer Intern",
-      organization: "StartUp Inc",
-      period: "2019 - 2020",
+      title: "Artificial Intelligence Intern",
+      organization: "Arkham Archives",
+      period: "Oct 2024 - Mar 2025",
       description:
-        "Assisted in building web applications and learning industry best practices. Contributed to various frontend and backend features.",
+        "Assisted in the development of AI algorithms for data classification and retrieval. Gained experience in machine learning frameworks and contributed to research projects.",
     },
   ];
 

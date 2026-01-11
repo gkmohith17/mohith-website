@@ -31,18 +31,18 @@ const About = () => {
                 isVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-20"
               }`}
             >
-              I specialize in full-stack development, with expertise in modern web technologies
-              and a strong foundation in problem-solving. Every project is an opportunity to
+              I specialize in machine learning, with expertise in Python, TensorFlow, and PyTorch. I
+              enjoy transforming complex problems into elegant code. Every project is an opportunity to
               create something extraordinary and make a meaningful impact.
             </p>
             <p
               className={`text-muted-foreground leading-relaxed transition-all duration-1000 delay-600 ${
-                isVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-20"
+              isVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-20"
               }`}
             >
-              When I'm not coding, you can find me exploring new technologies, contributing to
-              open-source projects, or sharing knowledge with the developer community. I believe
-              in continuous learning and the power of collaboration.
+              When I'm not coding, you can find me exploring new technologies, building side projects,
+              contributing to open-source, hiking, and practicing photography. I believe in continuous
+              learning and the power of collaboration.
             </p>
           </div>
         </div>

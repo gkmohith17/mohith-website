@@ -34,7 +34,7 @@ const Hero = () => {
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-20"
             }`}
           >
-            Full Stack Developer | Problem Solver | Tech Enthusiast
+            Artificial Intelligence Enthusiast | Problem Solver | Tech Explorer
           </p>
 
           <button

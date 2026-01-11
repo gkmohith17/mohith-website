@@ -6,18 +6,25 @@ const Education = () => {
 
   const education = [
     {
-      title: "Master of Science in Computer Science",
-      organization: "University Name",
-      period: "2018 - 2020",
+      title: "Bachelor of Technology in Computer Science - Specialization in AI and ML",
+      organization: "Vellore Institute of Technology, Chennai",
+      period: "2022 - 2026",
       description:
-        "Specialized in Software Engineering and Artificial Intelligence. Completed thesis on machine learning applications in web development.",
+        "Specialized in Software Engineering and Artificial Intelligence. Relevant coursework: Data Structures, Algorithms, Machine Learning, Deep Learning, Database Management Systems, and Cloud Computing.",
     },
     {
-      title: "Bachelor of Technology in Computer Science",
-      organization: "College Name",
-      period: "2014 - 2018",
+      title: "12th Standard - Computer Science",
+      organization: "MASVS Gurukula PU College, Mysuru",
+      period: "2020 - 2022",
       description:
-        "Graduated with honors. Strong foundation in algorithms, data structures, and software development principles.",
+        "Focused on Computer Science, Mathematics, Physics, and Chemistry. Achieved top 3rd rank in the state board examinations in college.",
+    },  
+    {
+      title: "10th Standard",
+      organization: "Manasarowar Pushkarini Vidyasharama, Mysuru",
+      period: "2014 - 2020",
+      description:
+        "Completed secondary education with a strong foundation in Science and Mathematics. Graduated with distinction and received awards for academic excellence.",
     },
   ];
 
